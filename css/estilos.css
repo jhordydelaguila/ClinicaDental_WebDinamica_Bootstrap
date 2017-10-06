@@ -1,0 +1,151 @@
+body {
+	padding-top: 70px;
+}
+
+.pacifico {
+	font-family: 'Pacifico', cursive;
+}
+
+.navbar-brand{
+	font-size: 40px;
+	color: #0094d6 !important;
+}
+
+.navbar {
+	background: #FFF;
+	padding: 10px;
+}
+
+.navbar li a:hover{
+	color: #0094d6 !important;
+
+}
+
+.contenido1 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.contenido2 {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.titulo-principal {
+	padding: 27px;
+	text-align: center;
+	font-size: 36px;
+	font-weight: bold;
+	color: #0094d6;
+}
+
+.titulo-grande {
+	font-size: 50px;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+
+footer{
+	background-color: #f5f7f8;
+	padding: 30px;
+}
+
+.p-mediano {
+	font-size: 20px;
+	text-align: center;
+}
+
+.titulo-segundario {
+	color:#67c9e0;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.fondo-celeste {
+	background: #0094d6;
+}
+
+.panel-heading {
+	color: #0094d6 !important;
+	background-color: #fff !important;
+}
+
+.title{
+	text-align: center;
+}
+.font-celeste {
+	color: #0094d6 !important;
+}
+
+.jumbotron {
+	background: #fff;
+	text-align: center;
+}
+
+.jumbotron h1{
+	color: #0094d6 !important;
+}
+
+.well {
+	background-color:#0094d6;
+}
+
+.well p{
+	color: #fff !important;
+}
+
+.btn{
+	padding: 10px 24px;
+	color: #fff;
+	font-size: 21px;
+	margin-bottom: 30px;
+	background: #D75E49
+}
+
+.btn:hover{
+	background: #0094d6;
+	color: #fff;
+}
+
+
+.inicio {
+	text-align: center;
+}
+
+.inicio h3 {
+	color: white;
+	font-size: 25px;
+}
+
+.inicio img{
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+.list-group-item:hover{
+	background: #0094d6 !important;
+	color: #fff !important;
+}
+
+.thumbnail img {
+	width: 100%;
+}
+
+ .thumbnail {
+ 	border: none;
+ 	text-align: center;
+ }
+
+ .thumbnail h3{
+ 	text-align: center;
+ 	color: #0094d6;
+	font-size: 25px;
+	margin-right: 10px;
+ 	margin-left: 10px;
+ }
+
+.modal.and.carousel {
+  position: absolute; // Needed because the carousel overrides the position property
+}
